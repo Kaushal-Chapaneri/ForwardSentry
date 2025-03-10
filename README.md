@@ -5,5 +5,4 @@ An Agentic AI application designed to trace the flow of forwarded messages and t
 - ForwardSentry.pdf contains overview of developed application
 - ArangoDB_Hackathon_ForwardSentry.ipynb Jupyter notebook executed on Google colab contains detailed steps to execute.
 
-<a style='text-decoration:none' target=_blank href=https://devpost.com/software/forwardsentry>Devpost</a> 
-<a style='text-decoration:none' target=_blank href=https://www.youtube.com/watch?v=jptUIBSPxuw>YouTube Demo</a>
+[Devpost](https://devpost.com/software/forwardsentry) [YouTube](https://www.youtube.com/watch?v=jptUIBSPxuw)
